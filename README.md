@@ -15,10 +15,17 @@
       color: #333;
       text-align: center;
     }
+    .header-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px; /* Espaçamento entre o texto e o GIF */
+      margin-top: 20px;
+    }
     .skills-section {
       display: flex;
       justify-content: center;
-      gap: 100px; /* Aumentado o gap entre as tabelas */
+      gap: 100px;
       margin-top: 30px;
     }
     .linkedin-badge {
@@ -37,8 +44,12 @@
 </head>
 <body>
   <!-- Header -->
+  <div class="header-container">
+    <h3>Sou estudante de Ciência da Computação</h3>
+    <img src="https://media.giphy.com/media/3o7aD6wcxvF39Kug7K/giphy.gif" alt="GIF de Computação" width="50" height="50">
+  </div>
+
   <h1>Olá! Me chamo Pedro 👋</h1>
-  <h3>Sou estudante de Ciência da Computação</h3>
 
   <!-- Linkedin -->
   <h2>Converse comigo:</h2>
