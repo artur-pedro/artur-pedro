@@ -3,64 +3,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Perfil do Pedro</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f4;
-    }
-    h1, h2, h3 {
-      color: #333;
-      text-align: center;
-    }
-    .header-container {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 20px; /* Espaçamento entre o texto e o GIF */
-      margin-top: 20px;
-    }
-    .skills-section {
-      display: flex;
-      justify-content: center;
-      gap: 100px;
-      margin-top: 30px;
-    }
-    .linkedin-badge {
-      display: flex;
-      justify-content: center;
-      margin-top: 20px;
-    }
-    .languages-tools {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 20px;
-      margin-top: 20px;
-    }
-  </style>
 </head>
 <body>
   <!-- Header -->
+  <h1>Olá! Me chamo Pedro Artur👋</h1>
   <div class="header-container">
     <h3>Sou estudante de Ciência da Computação</h3>
-    <img src="https://media.giphy.com/media/3o7aD6wcxvF39Kug7K/giphy.gif" alt="GIF de Computação" width="50" height="50">
+    <img src="https://s6.ezgif.com/tmp/ezgif-6-329b4b8f28.gif" alt="GIF de Computação" width="50" height="50">
   </div>
-
-  <h1>Olá! Me chamo Pedro 👋</h1>
 
   <!-- Linkedin -->
   <h2>Converse comigo:</h2>
+  <div class="social" style="display: flex; gap: 10px; justify-content: center;">
+  <!-- LinkedIn Badge -->
   <div class="linkedin-badge">
     <a href="https://www.linkedin.com/in/artur-pedro/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </div>
 
+  <!-- Email Badge -->
+  <div class="email-badge">
+    <a href="mailto:pedroarturoliver@gmail.com">
+      <img src="https://img.shields.io/badge/Email-FF3D00?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+    </a>
+  </div>
+</div>
   <!-- Skills -->
-  <h2>👨‍💻 Skills</h2>
+  <h2>👨‍💻 Stats</h2>
   <div class="skills-section">
     <img src="https://github-readme-stats.vercel.app/api?username=artur-pedro&show_icons=true&theme=dracula" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-pedro" alt="Top Languages">
