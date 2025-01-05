@@ -9,7 +9,6 @@
   <h1>Olá! Me chamo Pedro Artur👋</h1>
   <div class="header-container">
     <h3>Sou estudante de Ciência da Computação</h3>
-    <img src="https://s6.ezgif.com/tmp/ezgif-6-329b4b8f28.gif" alt="GIF de Computação" width="50" height="50">
   </div>
 
   <!-- Linkedin -->
