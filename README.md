@@ -8,7 +8,7 @@
   <div class="gif-container" style="text-align: center; margin: 20px 0;">
     <img src="https://media.licdn.com/dms/image/D5612AQFpXtUrDwGWJw/article-cover_image-shrink_720_1280/0/1680320410002?e=2147483647&v=beta&t=gVUBOEUa5KzWYqAS9-g6WIEW9lr6QFn_J_DIrOmYDhY" 
          alt="Pedro Artur GIF" 
-         style="max-width: 100%; height: auto; border-radius: 10px;">
+         style="max-width: 100%; height: 300px; object-fit: cover; border-radius: 10px;">
   </div>
 
   <div class="header-container">
