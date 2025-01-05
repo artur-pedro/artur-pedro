@@ -3,10 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pedro Artur - Portfólio</title>
 </head>
 <body>
   <!-- Header -->
-  <h1>Olá! Me chamo Pedro Artur👋</h1>
+  <h1>Olá! Me chamo Pedro Artur 👋</h1>
+  
+  <!-- GIF -->
+  <div class="gif-container" style="text-align: center; margin: 20px 0;">
+    <img src="https://media.licdn.com/dms/image/D5612AQFpXtUrDwGWJw/article-cover_image-shrink_720_1280/0/1680320410002?e=2147483647&v=beta&t=gVUBOEUa5KzWYqAS9-g6WIEW9lr6QFn_J_DIrOmYDhY" 
+         alt="Pedro Artur GIF" 
+         style="max-width: 100%; height: auto; border-radius: 10px;">
+  </div>
+
   <div class="header-container">
     <h3>Sou estudante de Ciência da Computação</h3>
   </div>
@@ -14,20 +23,21 @@
   <!-- Linkedin -->
   <h2>Converse comigo:</h2>
   <div class="social" style="display: flex; gap: 10px; justify-content: center;">
-  <!-- LinkedIn Badge -->
-  <div class="linkedin-badge">
-    <a href="https://www.linkedin.com/in/artur-pedro/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+    <!-- LinkedIn Badge -->
+    <div class="linkedin-badge">
+      <a href="https://www.linkedin.com/in/artur-pedro/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </div>
+
+    <!-- Email Badge -->
+    <div class="email-badge">
+      <a href="mailto:pedroarturoliver@gmail.com">
+        <img src="https://img.shields.io/badge/Email-FF3D00?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+      </a>
+    </div>
   </div>
 
-  <!-- Email Badge -->
-  <div class="email-badge">
-    <a href="mailto:pedroarturoliver@gmail.com">
-      <img src="https://img.shields.io/badge/Email-FF3D00?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-    </a>
-  </div>
-</div>
   <!-- Skills -->
   <h2>👨‍💻 Stats</h2>
   <div class="skills-section">
