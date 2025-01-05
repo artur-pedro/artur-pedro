@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pedro Artur - Portfólio</title>
-</head>
 <body>
   <!-- Header -->
   <h1>Olá! Me chamo Pedro Artur 👋</h1>
@@ -20,7 +15,6 @@
     <h3>Sou estudante de Ciência da Computação</h3>
   </div>
 
-  <!-- Linkedin -->
   <h2>Converse comigo:</h2>
   <div class="social" style="display: flex; gap: 10px; justify-content: center;">
     <!-- LinkedIn Badge -->
@@ -29,13 +23,12 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
     </div>
-
-    <!-- Email Badge -->
     <div class="email-badge">
       <a href="mailto:pedroarturoliver@gmail.com">
         <img src="https://img.shields.io/badge/Email-FF3D00?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
       </a>
     </div>
+    
   </div>
 
   <!-- Skills -->
@@ -45,7 +38,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-pedro" alt="Top Languages">
   </div>
 
-  <!-- Languages and Tools -->
   <h2>🔧 Languages and Tools</h2>
   <div class="languages-tools">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
