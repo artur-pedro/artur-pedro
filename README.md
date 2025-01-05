@@ -35,7 +35,8 @@
   <h2>👨‍💻 Stats</h2>
   <div class="skills-section">
     <img src="https://github-readme-stats.vercel.app/api?username=artur-pedro&show_icons=true&theme=dracula" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-pedro" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-pedro&langs_count=6&layout=compact&theme="dracula">
+
   </div>
 
   <h2>🔧 Languages and Tools</h2>
